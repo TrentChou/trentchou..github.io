@@ -1,3 +1,7 @@
+---
+layout: post
+title: 开篇词：个体自由，本真自我
+---
 # 开篇词：个体自由，本真自我
 # opening word: Individual freedom, The true self
 
